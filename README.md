@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, Quantum Computing and Machine Learning
 - 🌱 I’m currently learning Quantum Computing, Electronics & Communication Engineering
 - 💞️ I’m looking to collaborate on Quantum Computing(Qiskit)
-- 📫 How to reach me on twitter-@sneh_ash
+- 📫 How to reach me on instagram-@sneh_ashish_
 
 <!---
 Snehashish1609/Snehashish1609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
