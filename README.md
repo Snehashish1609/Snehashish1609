@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snehashish1609
-- 👀 I’m interested in programming, Quantum Computing and Machine Learning
-- 🌱 I’m currently learning AI/ML, IoT, Quantum Computing
+- 👀 I’m interested in programming, & Quantum Computing
+- 🌱 I’m currently learning IoT, Quantum Computing
 - 💞️ I’m looking to collaborate on Python, C++, or Quantum Computing(Qiskit) Projects
 - 📫 How to reach me on mail - lahiri.sneh@gmail.com
 
